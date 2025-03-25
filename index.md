@@ -5,3 +5,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 add headers h1,h2,h6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
