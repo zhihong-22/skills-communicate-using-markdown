@@ -6,4 +6,12 @@
 
 add headers h1,h2,h6
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
+```python
+print("Hello World")
+```
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
