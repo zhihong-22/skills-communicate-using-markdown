@@ -13,5 +13,10 @@ var myVar = "Hello, world!";
 ```python
 print("Hello World")
 ```
+#Task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] input python and java code
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
